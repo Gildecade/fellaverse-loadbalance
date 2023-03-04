@@ -1,0 +1,5 @@
+com\fellaverse\backend\filter\global\JWTTokenCheckFilter.class
+com\fellaverse\backend\Gateway_9001.class
+com\fellaverse\backend\config\FeignSupportConfig.class
+com\fellaverse\backend\config\GatewayJWTConfig.class
+META-INF\spring-configuration-metadata.json

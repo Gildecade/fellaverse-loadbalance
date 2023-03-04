@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "fellaverse.security.config.jwt",
+      "type": "com.fellaverse.backend.jwt.config.JWTConfig",
+      "sourceType": "com.fellaverse.backend.jwt.config.JWTConfig"
+    },
+    {
+      "name": "fellaverse.security.config.password.encrypt",
+      "type": "com.fellaverse.backend.jwt.config.EncryptConfig",
+      "sourceType": "com.fellaverse.backend.jwt.config.EncryptConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fellaverse.security.config.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.fellaverse.backend.jwt.config.JWTConfig"
+    },
+    {
+      "name": "fellaverse.security.config.jwt.issuer",
+      "type": "java.lang.String",
+      "sourceType": "com.fellaverse.backend.jwt.config.JWTConfig"
+    },
+    {
+      "name": "fellaverse.security.config.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.fellaverse.backend.jwt.config.JWTConfig"
+    },
+    {
+      "name": "fellaverse.security.config.jwt.sign",
+      "type": "java.lang.String",
+      "sourceType": "com.fellaverse.backend.jwt.config.JWTConfig"
+    },
+    {
+      "name": "fellaverse.security.config.password.encrypt.repeat",
+      "type": "java.lang.Integer",
+      "sourceType": "com.fellaverse.backend.jwt.config.EncryptConfig"
+    },
+    {
+      "name": "fellaverse.security.config.password.encrypt.salt",
+      "type": "java.lang.String",
+      "sourceType": "com.fellaverse.backend.jwt.config.EncryptConfig"
+    }
+  ],
+  "hints": []
+}
