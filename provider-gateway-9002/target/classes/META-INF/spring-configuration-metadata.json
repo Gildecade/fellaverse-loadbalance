@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "gateway.config.jwt",
+      "type": "com.fellaverse.backend.config.GatewayJWTConfig",
+      "sourceType": "com.fellaverse.backend.config.GatewayJWTConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "gateway.config.jwt.header-name",
+      "type": "java.lang.String",
+      "sourceType": "com.fellaverse.backend.config.GatewayJWTConfig"
+    },
+    {
+      "name": "gateway.config.jwt.skip-auth-urls",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.fellaverse.backend.config.GatewayJWTConfig"
+    }
+  ],
+  "hints": []
+}
