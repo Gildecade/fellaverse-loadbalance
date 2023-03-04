@@ -1,6 +1,0 @@
-com\fellaverse\backend\service\AuthenticationServiceImpl.class
-com\fellaverse\backend\controller\UserInfoModifyController.class
-com\fellaverse\backend\TokenServer_6001.class
-com\fellaverse\backend\service\UserInfoModifyServiceImpl.class
-com\fellaverse\backend\config\AsyncConfiguration.class
-com\fellaverse\backend\controller\LoginController.class

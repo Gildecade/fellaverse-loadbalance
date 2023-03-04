@@ -1,5 +1,0 @@
-com\fellaverse\backend\controller\FeignLoginController.class
-com\fellaverse\backend\controller\FeignUserInfoModifyController.class
-com\fellaverse\backend\service\FeignAuthenticationService.class
-com\fellaverse\backend\service\FeignUserInfoModifyService.class
-com\fellaverse\backend\TokenConsumer_6002.class
