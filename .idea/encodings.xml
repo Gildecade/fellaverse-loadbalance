@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-jwt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-token-6002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-token-6002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-8761/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-8761/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openfeign-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openfeign-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-gateway-9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-gateway-9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-gateway-9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-gateway-9002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-gateway-9003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-gateway-9003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-token-6001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-token-6001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-token-6003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-token-6003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-token-6004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-token-6004/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

@@ -7,7 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="fellaverse-loadbalance" />
+        <module name="common-api" />
+        <module name="provider-gateway-9002" />
+        <module name="provider-gateway-9003" />
+        <module name="consumer-utils" />
+        <module name="provider-gateway-9001" />
+        <module name="openfeign-config" />
+        <module name="provider-token-6003" />
+        <module name="consumer-token-6002" />
+        <module name="provider-token-6004" />
+        <module name="common-jwt" />
+        <module name="provider-token-6001" />
+        <module name="eureka-8761" />
       </profile>
     </annotationProcessing>
   </component>
