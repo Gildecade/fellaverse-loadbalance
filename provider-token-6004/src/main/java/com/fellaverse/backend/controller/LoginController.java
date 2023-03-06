@@ -33,10 +33,11 @@ public class LoginController {
         Map<String, Object> result = this.authenticationService.login(userLoginDTO);
         if ((Boolean)result.get("status")) {
             Map<String, Object> resource = (Map<String, Object>) result.get("resource");
-            return new LoginTokenDTO(this.jwtTokenService.createToken(result.get("id").toString(), resource),
+            LoginTokenDTO tokenDTO = new LoginTokenDTO(this.jwtTokenService.createToken(result.get("id").toString(), resource),
                     (String) resource.get("username"),
                     (List<String>) resource.get("roles"),
                     (List<String>) resource.get("functions"));
+            return "Login from 6004";
         }
         return null;
     }
